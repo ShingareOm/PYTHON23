@@ -6,10 +6,6 @@ Welcome to the Python Practicals repository! This repository contains practical 
 
 **Om Shingare**
 
-## Table of Contents
-
-- [License](LICENSE.txt)
-
 ## About
 
 This repository houses Python practicals that cover a range of topics including but not limited to:
@@ -43,4 +39,4 @@ Contributions are welcome! If you find a bug, have suggestions for improvement, 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
