@@ -4,11 +4,11 @@ Welcome to the Python Practicals repository! This repository contains practical 
 
 ## Owner
 
-**Om Shingare**
+**Om Shingare | GPO CO 3YR Batch3 23-24**
 
 ## About
 
-This repository houses Python practicals that cover a range of topics including but not limited to:
+This repository houses Python practicals that cover a the diploma Manual Student Activities:
 
 - Basic syntax and data types
 - Control flow (if statements, loops)
@@ -35,7 +35,7 @@ To make the best use of this repository, follow these steps:
 
 ## Contributing
 
-Contributions are welcome! If you find a bug, have suggestions for improvement, or want to add new practical exercises, please feel free to open an issue or submit a pull request.
+Contributions are welcome! If you find a bug, have suggestions for improvement, or want to add new practical exercises, please feel free to open an issue or submit a pull request. Please don't hesitate to reach me out.
 
 ## License
 
