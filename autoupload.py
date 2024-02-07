@@ -6,4 +6,4 @@ while True:
     subprocess.run(["python", "codepushauto.py"])
     
     # Wait for 5 minutes
-    time.sleep(10)  # 300 seconds = 5 minutes
+    time.sleep(300)  # 300 seconds = 5 minutes
