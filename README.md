@@ -32,7 +32,9 @@ Each practical is organized into separate directories, with detailed explanation
 To make the best use of this repository, follow these steps:
 
 1. Clone the repository to your local machine:
-2. bash
-   ```
+2. bash```
    git clone https://github.com/ShingareOm/PYTHON23.git
    ```
+3. Navigate to the desired practical directory:
+4. Run the Python script associated with the practical:
+
