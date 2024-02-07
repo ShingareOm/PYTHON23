@@ -8,10 +8,7 @@ Welcome to the Python Practicals repository! This repository contains practical 
 
 ## Table of Contents
 
-- [About](#about)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [License](LICENSE.txt)
 
 ## About
 
@@ -37,4 +34,12 @@ To make the best use of this repository, follow these steps:
    ```
 3. Navigate to the desired practical directory:
 4. Run the Python script associated with the practical:
+5. Follow along with the comments in the code to understand the concepts being demonstrated.
 
+## Contributing
+
+Contributions are welcome! If you find a bug, have suggestions for improvement, or want to add new practical exercises, please feel free to open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
