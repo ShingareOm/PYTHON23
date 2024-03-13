@@ -4,7 +4,7 @@ Welcome to the Python Practicals repository! This repository contains practical 
 
 ## Owner
 
-**Om Shingare | GPO CO 3YR Batch3 23-24**
+**Om Shingare | GPD CO 3YR Batch3 23-24**
 
 ## About
 
