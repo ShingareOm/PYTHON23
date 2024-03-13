@@ -4,7 +4,7 @@ Welcome to the Python Practicals repository! This repository contains practical 
 
 ## Owner
 
-**Om Shingare | GPD CO 3YR Batch3 23-24**
+##Om Shingare | GPD CO 3YR Batch3 23-24
 
 ## About
 
@@ -25,13 +25,12 @@ Each practical is organized into separate directories, with detailed explanation
 To make the best use of this repository, follow these steps:
 
 1. Clone the repository to your local machine:
-2. bash
-   ```
+2. ```
    git clone https://github.com/ShingareOm/PYTHON23.git
    ```
-4. Navigate to the desired practical directory:
-5. Run the Python script associated with the practical:
-6. Follow along with the comments in the code to understand the concepts being demonstrated.
+3. Navigate to the desired practical directory:
+4. Run the Python script associated with the practical:
+5. Follow along with the comments in the code to understand the concepts being demonstrated.
 
 ## Contributing
 
